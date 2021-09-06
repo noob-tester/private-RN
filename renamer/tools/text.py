@@ -24,7 +24,7 @@ class TEXT:
 
 ** Creator:** [@OO7ROBot](https://telegram.me/OO7ROBot)
 
-** Channel:** [NS BOT UPDATES](https://t.me/MyTestBotZ)
+** Channel:** [BOT UPDATES](https://t.me/MyTestBotZ)
 
 ** Botz :** [Other Bots](https://t.me/MyBotZlist)
 """
